@@ -1,5 +1,5 @@
 public class Box {
-  int width;
-  int length;
-  int height;
+  int width; // 가로
+  int length; // 세로
+  int height; // 높이
 }
