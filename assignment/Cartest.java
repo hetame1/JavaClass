@@ -1,3 +1,4 @@
+package assignment;
 public class Cartest {
   public static void main(String[] args) {
     Car myCar = new Car(); // 객체 생성

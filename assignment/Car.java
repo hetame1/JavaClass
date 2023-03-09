@@ -1,3 +1,4 @@
+package assignment;
 public class Car {
   String color; // 색
   int gear; // 기어

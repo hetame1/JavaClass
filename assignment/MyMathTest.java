@@ -1,3 +1,4 @@
+package assignment;
 public class MyMathTest {
   public static void main(String[] args) {
     int sum;  // 합계

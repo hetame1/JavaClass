@@ -1,3 +1,4 @@
+package assignment;
 public class MyMath {
 
   // 매개 변수 만들기

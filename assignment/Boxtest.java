@@ -1,3 +1,4 @@
+package assignment;
 public class Boxtest {
   public static void main(String[] args) {
 
