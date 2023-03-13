@@ -58,7 +58,6 @@ public class Javatest {
     // System.out.println(8.678);
 
     Javatest.sayHello();
-    Javatest t = new Javatest();
     
   }
 }
